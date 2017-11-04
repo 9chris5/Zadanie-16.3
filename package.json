@@ -1,0 +1,16 @@
+{
+  "name": "16_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack ./app.js app.bundle.js",
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
